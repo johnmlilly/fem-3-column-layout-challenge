@@ -30,10 +30,8 @@ For this I used:
 I still need to understand the default styles better and media queries as well. I got stuck with the layout of the entire project, and I figured out instead of focusing on getting the overall layout centered, I should work through each element first. So, get the basic colors down for the whole document, set the default margin and padding, etc. and then moving to the <div> elements and getting those squared away so I know where to hook my style on to. 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@johnmlilly](https://www.frontendmentor.io/profile/johnmlilly)
+- LinkedIn - [@johnmlilly](https://www.linkedin.com/in/johnmlilly/)
 
 ## Acknowledgments
 
