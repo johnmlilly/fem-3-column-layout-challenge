@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/johnmlilly/fem-3-column-layout-challenge)
-- Live Site URL: [Add live site URL here](https://fem-3-column-layout.netlify.app/)
+- Solution URL: [https://github.com/johnmlilly/fem-3-column-layout-challenge]
+- Live Site URL: [https://fem-3-column-layout.netlify.app/]
 
 ## My process
 I first started with adding a class to each of the three car elements as well as the entire container. I goofed up at the beginning by assigning them their own class (sedan, SUV, luxury) and went back to change them to the same class since the styling was the same. I then imported the Google fonts and set the default styles + fonts for the stylesheet. I'm still learning the box-sizing: border-box element but I am getting there :) After that I found out I needed to add a SECOND class to each car to target the background color needed for each. Again, still learning :) Once I did that I was able to do the button:hover styling quickly and finished by adding the media query for the size indicated in the challenge.
